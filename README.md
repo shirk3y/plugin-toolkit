@@ -2,6 +2,10 @@
 
 These helpers are designed to provide simplified access to certain APIs.
 
+## Docs
+
+https://adobexdplatform.com/plugin-docs/
+
 ## Usage
 
 ### Copy
